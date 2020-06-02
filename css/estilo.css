@@ -15,12 +15,20 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    display: flex;
+}
+
+#cabecera img {
+    width: 25px;
+    margin-right: 5px;   
 }
 
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+    margin-left: 45px;
+    margin-top: 2px;
 }
 
 #container{
