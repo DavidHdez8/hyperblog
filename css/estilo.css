@@ -18,6 +18,10 @@ body{
     display: flex;
 }
 
+#post p img {
+    width: 470px;
+}
+
 #cabecera img {
     width: 25px;
     margin-right: 5px;   
